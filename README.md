@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @giacomoborin
+- 👀 I’m interested in Algebra, Cryptography and Python
+- 🌱 I’m currently learning Mathematics in Univeristy of Trento
+- 📫 How to reach me: 
+  - Mail : giacomo.borin@studenti.unitn.it
+  - Telegram : @giacomoborin
