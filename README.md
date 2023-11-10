@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giacomoborin
 - 👀 I’m interested in Algebra, Cryptography and Python (also sagemath)
-- 🌱 I’m currently learning Mathematics in Univeristy of Trento
+- 🌱 I’m currently doing research on isogenies and isomporphism problems related to coding theory
 - 📫 How to reach me: 
-  - Mail : giacomo.borin@studenti.unitn.it
+  - Mail : giacomo.borin@math.uzh.ch
   - Telegram : @giacomoborin
