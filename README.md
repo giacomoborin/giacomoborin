@@ -4,4 +4,3 @@
 - 📫 How to reach me: 
   - Mail : giacomo at gbor dot in
   - Website : [gbor.in](http://gbor.in)
-  - Twitter : [giaborin](https://twitter.com/giaborin)
